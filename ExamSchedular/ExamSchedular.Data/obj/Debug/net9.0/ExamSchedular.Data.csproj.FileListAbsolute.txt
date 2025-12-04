@@ -1,0 +1,14 @@
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Data\bin\Debug\net9.0\ExamSchedular.Data.deps.json
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Data\bin\Debug\net9.0\ExamSchedular.Data.runtimeconfig.json
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Data\bin\Debug\net9.0\ExamSchedular.Data.dll
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Data\bin\Debug\net9.0\ExamSchedular.Data.pdb
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Data\obj\Debug\net9.0\ExamSchedular.Data.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Data\obj\Debug\net9.0\ExamSchedular.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Data\obj\Debug\net9.0\ExamSchedular.Data.AssemblyInfoInputs.cache
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Data\obj\Debug\net9.0\ExamSchedular.Data.AssemblyInfo.cs
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Data\obj\Debug\net9.0\ExamSchedular.Data.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Data\obj\Debug\net9.0\ExamSchedular.Data.dll
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Data\obj\Debug\net9.0\refint\ExamSchedular.Data.dll
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Data\obj\Debug\net9.0\ExamSchedular.Data.pdb
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Data\obj\Debug\net9.0\ExamSchedular.Data.genruntimeconfig.cache
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Data\obj\Debug\net9.0\ref\ExamSchedular.Data.dll

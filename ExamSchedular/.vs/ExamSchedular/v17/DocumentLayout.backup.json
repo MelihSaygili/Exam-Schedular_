@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.business\\scheduling\\schedulingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|solutionrelative:examschedular.business\\scheduling\\schedulingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.business\\importwriterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|solutionrelative:examschedular.business\\importwriterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.business\\importmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|solutionrelative:examschedular.business\\importmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.business\\iimportwriterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|solutionrelative:examschedular.business\\iimportwriterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.business\\iexcelimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|solutionrelative:examschedular.business\\iexcelimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.business\\iadmindataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|solutionrelative:examschedular.business\\iadmindataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.business\\dtos\\schedulingdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|solutionrelative:examschedular.business\\dtos\\schedulingdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.business\\courses\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|solutionrelative:examschedular.business\\courses\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.business\\classrooms\\iclassroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|solutionrelative:examschedular.business\\classrooms\\iclassroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.business\\classrooms\\classroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEF84A3-B11C-4EB1-BCB1-4FB7FB408B56}|ExamSchedular.Business\\ExamSchedular.Business.csproj|solutionrelative:examschedular.business\\classrooms\\classroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\viewmodels\\programcreatepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\viewmodels\\programcreatepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\seatassigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\seatassigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\examassigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\examassigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\programcreatepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\programcreatepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\programcreatepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\programcreatepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportWriterService.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\ImportWriterService.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Business\\ImportWriterService.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\ImportWriterService.cs",
+              "RelativeToolTip": "ExamSchedular.Business\\ImportWriterService.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAADwvyQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:52:27.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportModels.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\ImportModels.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Business\\ImportModels.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\ImportModels.cs",
+              "RelativeToolTip": "ExamSchedular.Business\\ImportModels.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:52:23.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IImportWriterService.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\IImportWriterService.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Business\\IImportWriterService.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\IImportWriterService.cs",
+              "RelativeToolTip": "ExamSchedular.Business\\IImportWriterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:52:18.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IExcelImportService.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\IExcelImportService.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Business\\IExcelImportService.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\IExcelImportService.cs",
+              "RelativeToolTip": "ExamSchedular.Business\\IExcelImportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:52:14.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAdminDataService.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\IAdminDataService.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Business\\IAdminDataService.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\IAdminDataService.cs",
+              "RelativeToolTip": "ExamSchedular.Business\\IAdminDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:52:09.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchedulingService.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\Scheduling\\SchedulingService.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Business\\Scheduling\\SchedulingService.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\Scheduling\\SchedulingService.cs*",
+              "RelativeToolTip": "ExamSchedular.Business\\Scheduling\\SchedulingService.cs*",
+              "ViewState": "AgIAAHQCAAAAAAAAAAAowIkCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:31:10.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\Courses\\CourseService.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Business\\Courses\\CourseService.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\Courses\\CourseService.cs",
+              "RelativeToolTip": "ExamSchedular.Business\\Courses\\CourseService.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAUwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:49:30.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClassroomService.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\Classrooms\\IClassroomService.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Business\\Classrooms\\IClassroomService.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\Classrooms\\IClassroomService.cs",
+              "RelativeToolTip": "ExamSchedular.Business\\Classrooms\\IClassroomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:49:22.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassroomService.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\Classrooms\\ClassroomService.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Business\\Classrooms\\ClassroomService.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\Classrooms\\ClassroomService.cs",
+              "RelativeToolTip": "ExamSchedular.Business\\Classrooms\\ClassroomService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:48:47.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Classroom.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\Classroom.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Classroom.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\Classroom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:01:30.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchedulingDtos.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\DTOs\\SchedulingDtos.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Business\\DTOs\\SchedulingDtos.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Business\\DTOs\\SchedulingDtos.cs",
+              "RelativeToolTip": "ExamSchedular.Business\\DTOs\\SchedulingDtos.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA4wEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:30:27.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExamAssigment.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\ExamAssigment.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\ExamAssigment.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\ExamAssigment.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\ExamAssigment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:01:40.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProgramCreatePageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\ProgramCreatePageViewModel.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\ViewModels\\ProgramCreatePageViewModel.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\ProgramCreatePageViewModel.cs",
+              "RelativeToolTip": "ExamSchedular\\ViewModels\\ProgramCreatePageViewModel.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAcwCsBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:35:47.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProgramCreatePage.xaml",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\ProgramCreatePage.xaml",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\ProgramCreatePage.xaml",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\ProgramCreatePage.xaml",
+              "RelativeToolTip": "ExamSchedular\\Views\\ProgramCreatePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T17:32:07.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SeatAssigment.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\SeatAssigment.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\SeatAssigment.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\SeatAssigment.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\SeatAssigment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:01:46.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProgramCreatePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\ProgramCreatePage.xaml.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\ProgramCreatePage.xaml.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\ProgramCreatePage.xaml.cs",
+              "RelativeToolTip": "ExamSchedular\\Views\\ProgramCreatePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:32:54.783Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

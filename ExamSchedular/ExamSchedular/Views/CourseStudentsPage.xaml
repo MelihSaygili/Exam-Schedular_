@@ -1,0 +1,37 @@
+﻿<UserControl x:Class="ExamSchedular.UI.Views.CourseStudentsPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Margin="12">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="8"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Başlık -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" VerticalAlignment="Center">
+            <TextBlock Text="Ders: " FontWeight="Bold" FontSize="16"/>
+            <TextBlock Text="{Binding CourseCode}" FontWeight="Bold" FontSize="16" Margin="4,0,8,0"/>
+            <TextBlock Text="–" FontSize="16" Margin="0,0,8,0"/>
+            <TextBlock Text="{Binding CourseName}" FontWeight="Bold" FontSize="16"/>
+        </StackPanel>
+
+        <!-- Liste -->
+        <ListBox Grid.Row="2" ItemsSource="{Binding Items}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock>
+                        <Run Text="{Binding StudentNo}"/>
+                        <Run Text=" – "/>
+                        <Run Text="{Binding NameSurname}"/>
+                    </TextBlock>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <!-- Alt bilgi -->
+        <TextBlock Grid.Row="3" Margin="0,6,0,0" Foreground="DimGray"
+                   Text="{Binding Items.Count, StringFormat=Toplam {0} öğrenci}"/>
+    </Grid>
+</UserControl>

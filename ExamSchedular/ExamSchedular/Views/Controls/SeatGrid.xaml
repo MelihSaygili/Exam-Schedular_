@@ -1,0 +1,8 @@
+﻿<UserControl x:Class="ExamSchedular.UI.Views.Controls.SeatGrid"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid>
+        <!-- code-behind'in eriştiği isim -->
+        <UniformGrid x:Name="PART_Grid" Rows="1" Columns="1" Margin="6"/>
+    </Grid>
+</UserControl>

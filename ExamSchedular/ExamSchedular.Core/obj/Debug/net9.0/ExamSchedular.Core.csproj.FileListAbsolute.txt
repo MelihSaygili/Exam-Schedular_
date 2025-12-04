@@ -1,0 +1,11 @@
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Core\bin\Debug\net9.0\ExamSchedular.Core.deps.json
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Core\bin\Debug\net9.0\ExamSchedular.Core.dll
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Core\bin\Debug\net9.0\ExamSchedular.Core.pdb
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Core\obj\Debug\net9.0\ExamSchedular.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Core\obj\Debug\net9.0\ExamSchedular.Core.AssemblyInfoInputs.cache
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Core\obj\Debug\net9.0\ExamSchedular.Core.AssemblyInfo.cs
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Core\obj\Debug\net9.0\ExamSchedular.Core.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Core\obj\Debug\net9.0\ExamSchedular.Core.dll
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Core\obj\Debug\net9.0\refint\ExamSchedular.Core.dll
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Core\obj\Debug\net9.0\ExamSchedular.Core.pdb
+C:\Users\melih\source\repos\ExamSchedular\ExamSchedular.Core\obj\Debug\net9.0\ref\ExamSchedular.Core.dll

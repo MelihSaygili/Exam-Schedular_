@@ -1,0 +1,137 @@
+﻿<UserControl x:Class="ExamSchedular.UI.Views.ProgramCreatePage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Margin="12">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="310"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="8"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="8"/>
+            <RowDefinition Height="220"/>
+        </Grid.RowDefinitions>
+
+        <!-- başlık / butonlar -->
+        <DockPanel Grid.Row="0" Grid.ColumnSpan="3">
+            <TextBlock Text="{Binding Title}" FontSize="18" FontWeight="Bold" VerticalAlignment="Center"/>
+            <StackPanel DockPanel.Dock="Right" Orientation="Horizontal" VerticalAlignment="Center">
+                <TextBlock Margin="0,0,12,0" Foreground="DimGray" Text="{Binding SummaryText}"/>
+                <Button Content="Önizleme Oluştur" Command="{Binding PreviewCommand}" Margin="0,0,8,0"/>
+                <Button Content="Kaydet" Command="{Binding SaveCommand}" Margin="0,0,8,0"/>
+                <Button Content="Dışa Aktar (XLSX)" Command="{Binding ExportXlsxCommand}"/>
+            </StackPanel>
+        </DockPanel>
+
+        <!-- sol parametreler -->
+        <StackPanel Grid.Row="2" Grid.Column="0">
+            <GroupBox Header="Takvim Aralığı" Padding="8" Margin="0,0,0,8">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,6">
+                        <TextBlock Text="Başlangıç:" Width="100" VerticalAlignment="Center"/>
+                        <DatePicker SelectedDate="{Binding StartDate}" Width="170"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Gün sayısı:" Width="100" VerticalAlignment="Center"/>
+                        <TextBox Text="{Binding Days}" Width="60"/>
+                    </StackPanel>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Header="Günlük Dilim" Padding="8" Margin="0,0,0,8">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,6">
+                        <TextBlock Text="Başlama (HH:MM):" Width="120"/>
+                        <TextBox Text="{Binding StartTimeText}" Width="80"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Bitiş (HH:MM):" Width="120"/>
+                        <TextBox Text="{Binding EndTimeText}" Width="80"/>
+                    </StackPanel>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Header="Slot &amp; Yerleşim" Padding="8" Margin="0,0,0,8">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,6">
+                        <TextBlock Text="Slot (dk):" Width="120"/>
+                        <TextBox Text="{Binding SlotMinutes}" Width="60"/>
+                    </StackPanel>
+                    <CheckBox Content="Aynı öğrencinin çakışmasını engelle (yaklaşık)" IsChecked="{Binding AvoidStudentConflict}"/>
+                    <CheckBox Content="Dersleri günlere yay" IsChecked="{Binding SpreadByDay}" Margin="0,4,0,0"/>
+                </StackPanel>
+            </GroupBox>
+
+            <TextBlock Text="{Binding Status}" Foreground="DimGray" Margin="0,6,0,0"/>
+        </StackPanel>
+
+        <!-- plan (kayıtlı) -->
+        <DataGrid Grid.Row="2" Grid.Column="2"
+                  ItemsSource="{Binding Items}"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True">
+            <DataGrid.Style>
+                <Style TargetType="DataGrid">
+                    <Setter Property="Visibility" Value="Visible"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding IsPreviewMode}" Value="True">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </DataGrid.Style>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Tarih" Binding="{Binding Date, StringFormat=\{0:dd.MM.yyyy\}}" Width="120"/>
+                <DataGridTextColumn Header="Saat" Binding="{Binding StartTime, StringFormat=\{0:hh\\:mm\}}" Width="90"/>
+                <DataGridTextColumn Header="Ders Kodu" Binding="{Binding CourseCode}" Width="110"/>
+                <DataGridTextColumn Header="Ders Adı" Binding="{Binding CourseName}" Width="*"/>
+                <DataGridTextColumn Header="Öğrenci" Binding="{Binding StudentCount}" Width="90"/>
+                <DataGridTextColumn Header="Derslik(ler)" Binding="{Binding RoomsCsv}" Width="220"/>
+                <DataGridTextColumn Header="Detay" Binding="{Binding RoomsDetailCsv}" Width="260"/>
+                <DataGridTextColumn Header="Kapasite" Binding="{Binding TotalCapacityUsed}" Width="90"/>
+                <DataGridTextColumn Header="Toplam Kap." Binding="{Binding TotalCapacity}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- önizleme (seç+dk değiştir) -->
+        <DataGrid Grid.Row="2" Grid.Column="2"
+                  ItemsSource="{Binding PreviewItems}"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False">
+            <DataGrid.Style>
+                <Style TargetType="DataGrid">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding IsPreviewMode}" Value="True">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </DataGrid.Style>
+            <DataGrid.Columns>
+                <DataGridCheckBoxColumn Header="Seç" Binding="{Binding Include, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="60"/>
+                <DataGridTextColumn Header="Tarih" Binding="{Binding DateText}" IsReadOnly="True" Width="110"/>
+                <DataGridTextColumn Header="Saat" Binding="{Binding TimeText}" IsReadOnly="True" Width="80"/>
+                <DataGridTextColumn Header="Ders Kodu" Binding="{Binding CourseCode}" IsReadOnly="True" Width="110"/>
+                <DataGridTextColumn Header="Ders Adı" Binding="{Binding CourseName}" IsReadOnly="True" Width="*" />
+                <DataGridTextColumn Header="Öğrenci" Binding="{Binding StudentCount}" IsReadOnly="True" Width="90"/>
+                <DataGridTextColumn Header="Derslik(ler)" Binding="{Binding RoomsCsv}" IsReadOnly="True" Width="160"/>
+                <DataGridTextColumn Header="Süre (dk)" Binding="{Binding Duration, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="90"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- notlar -->
+        <GroupBox Grid.Row="4" Grid.ColumnSpan="3" Header="Çatışmalar / Notlar" Padding="6">
+            <ListBox ItemsSource="{Binding Conflicts}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding}"/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </GroupBox>
+    </Grid>
+</UserControl>

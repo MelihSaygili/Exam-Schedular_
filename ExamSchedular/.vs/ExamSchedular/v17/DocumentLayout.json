@@ -1,0 +1,957 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\userspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\userspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\studentslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\studentslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\studentslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\studentslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\studentsimportpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\studentsimportpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\studentsimportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\studentsimportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\programcreatepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\programcreatepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\programcreatepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\programcreatepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\editclassroomdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\editclassroomdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\editclassroomdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\editclassroomdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\coursestudentspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\coursestudentspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\courseslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\courseslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\courseslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\courseslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\coursesimportpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\coursesimportpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\coursesimportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\coursesimportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\classroomspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\classroomspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\classroomspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\classroomspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\adduserdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\adduserdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\adduserdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\adduserdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\controls\\seatgrid.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\controls\\seatgrid.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\views\\controls\\seatgrid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\views\\controls\\seatgrid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\viewmodels\\userspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\viewmodels\\userspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\viewmodels\\studentslistpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\viewmodels\\studentslistpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\viewmodels\\studentsimportpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\viewmodels\\studentsimportpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\viewmodels\\programcreatepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\viewmodels\\programcreatepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\viewmodels\\editclassroomdialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\viewmodels\\editclassroomdialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\viewmodels\\coursestudentspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\viewmodels\\coursestudentspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\viewmodels\\courseslistpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\viewmodels\\courseslistpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\viewmodels\\coursesimportpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\viewmodels\\coursesimportpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\viewmodels\\classroomspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\viewmodels\\classroomspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular\\ui\\dependencyregistrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6CA73B-1DC0-409F-A7AD-3B011AB5E737}|ExamSchedular\\ExamSchedular.UI.csproj|solutionrelative:examschedular\\ui\\dependencyregistrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\seatassigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\seatassigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\ihasdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\ihasdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\examassigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\examassigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.data\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB9CAB-01E2-4879-86A3-2DB2042CE9DA}|ExamSchedular.Data\\ExamSchedular.Data.csproj|solutionrelative:examschedular.data\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9455C4B-78C6-4AC6-8C96-FC2711F15A9D}|ExamSchedular.Core\\ExamSchedular.Core.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.core\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9455C4B-78C6-4AC6-8C96-FC2711F15A9D}|ExamSchedular.Core\\ExamSchedular.Core.csproj|solutionrelative:examschedular.core\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9455C4B-78C6-4AC6-8C96-FC2711F15A9D}|ExamSchedular.Core\\ExamSchedular.Core.csproj|c:\\users\\melih\\source\\repos\\examschedular\\examschedular.core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9455C4B-78C6-4AC6-8C96-FC2711F15A9D}|ExamSchedular.Core\\ExamSchedular.Core.csproj|solutionrelative:examschedular.core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ExamSchedular\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAcwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:01:39.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ExamSchedular\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\MainWindow.xaml",
+              "RelativeToolTip": "ExamSchedular\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T12:01:33.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\App.xaml",
+              "RelativeDocumentMoniker": "ExamSchedular\\App.xaml",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\App.xaml",
+              "RelativeToolTip": "ExamSchedular\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T12:01:24.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\UsersPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\UsersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\UsersPage.xaml.cs",
+              "RelativeToolTip": "ExamSchedular\\Views\\UsersPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:01:18.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\UsersPage.xaml",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\UsersPage.xaml",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\UsersPage.xaml",
+              "RelativeToolTip": "ExamSchedular\\Views\\UsersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T12:01:11.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\StudentsListPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\StudentsListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\StudentsListPage.xaml.cs",
+              "RelativeToolTip": "ExamSchedular\\Views\\StudentsListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:01:05.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:56:47.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\StudentsListPage.xaml",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\StudentsListPage.xaml",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\StudentsListPage.xaml",
+              "RelativeToolTip": "ExamSchedular\\Views\\StudentsListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T12:00:59.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentsImportPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\StudentsImportPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\StudentsImportPage.xaml.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\StudentsImportPage.xaml.cs",
+              "RelativeToolTip": "ExamSchedular\\Views\\StudentsImportPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:00:52.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsImportPage.xaml",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\StudentsImportPage.xaml",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\StudentsImportPage.xaml",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\StudentsImportPage.xaml",
+              "RelativeToolTip": "ExamSchedular\\Views\\StudentsImportPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T12:00:46.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProgramCreatePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\ProgramCreatePage.xaml.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\ProgramCreatePage.xaml.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\ProgramCreatePage.xaml.cs",
+              "RelativeToolTip": "ExamSchedular\\Views\\ProgramCreatePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:00:39.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProgramCreatePage.xaml",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\ProgramCreatePage.xaml",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\ProgramCreatePage.xaml",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\ProgramCreatePage.xaml",
+              "RelativeToolTip": "ExamSchedular\\Views\\ProgramCreatePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T12:00:34.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ExamSchedular\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:00:27.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "ExamSchedular\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T12:00:21.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditClassroomDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\EditClassroomDialog.xaml.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\EditClassroomDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\EditClassroomDialog.xaml.cs",
+              "RelativeToolTip": "ExamSchedular\\Views\\EditClassroomDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:00:14.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditClassroomDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\EditClassroomDialog.xaml",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\EditClassroomDialog.xaml",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\EditClassroomDialog.xaml",
+              "RelativeToolTip": "ExamSchedular\\Views\\EditClassroomDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T12:00:08.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseStudentsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\CourseStudentsPage.xaml",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\CourseStudentsPage.xaml",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\CourseStudentsPage.xaml",
+              "RelativeToolTip": "ExamSchedular\\Views\\CourseStudentsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T11:59:53.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CoursesListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\CoursesListPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\CoursesListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\CoursesListPage.xaml.cs",
+              "RelativeToolTip": "ExamSchedular\\Views\\CoursesListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:59:46.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CoursesListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\CoursesListPage.xaml",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\CoursesListPage.xaml",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\CoursesListPage.xaml",
+              "RelativeToolTip": "ExamSchedular\\Views\\CoursesListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T11:59:39.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CoursesImportPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\CoursesImportPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\CoursesImportPage.xaml.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\CoursesImportPage.xaml.cs",
+              "RelativeToolTip": "ExamSchedular\\Views\\CoursesImportPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:59:31.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CoursesImportPage.xaml",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\CoursesImportPage.xaml",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\CoursesImportPage.xaml",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\CoursesImportPage.xaml",
+              "RelativeToolTip": "ExamSchedular\\Views\\CoursesImportPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T11:59:25.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClassroomsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\ClassroomsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\ClassroomsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\ClassroomsPage.xaml.cs",
+              "RelativeToolTip": "ExamSchedular\\Views\\ClassroomsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:59:17.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClassroomsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\ClassroomsPage.xaml",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\ClassroomsPage.xaml",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\ClassroomsPage.xaml",
+              "RelativeToolTip": "ExamSchedular\\Views\\ClassroomsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T11:59:12.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddUserDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\AddUserDialog.xaml.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\AddUserDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\AddUserDialog.xaml.cs",
+              "RelativeToolTip": "ExamSchedular\\Views\\AddUserDialog.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:59:05.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddUserDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\AddUserDialog.xaml",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\AddUserDialog.xaml",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\AddUserDialog.xaml",
+              "RelativeToolTip": "ExamSchedular\\Views\\AddUserDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T11:58:58.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SeatGrid.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\Controls\\SeatGrid.xaml.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\Controls\\SeatGrid.xaml.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\Controls\\SeatGrid.xaml.cs",
+              "RelativeToolTip": "ExamSchedular\\Views\\Controls\\SeatGrid.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:58:50.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SeatGrid.xaml",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\Controls\\SeatGrid.xaml",
+              "RelativeDocumentMoniker": "ExamSchedular\\Views\\Controls\\SeatGrid.xaml",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\Views\\Controls\\SeatGrid.xaml",
+              "RelativeToolTip": "ExamSchedular\\Views\\Controls\\SeatGrid.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T11:58:21.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UsersPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\UsersPageViewModel.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\ViewModels\\UsersPageViewModel.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\UsersPageViewModel.cs",
+              "RelativeToolTip": "ExamSchedular\\ViewModels\\UsersPageViewModel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:58:09.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentsListPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\StudentsListPageViewModel.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\ViewModels\\StudentsListPageViewModel.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\StudentsListPageViewModel.cs",
+              "RelativeToolTip": "ExamSchedular\\ViewModels\\StudentsListPageViewModel.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAswHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:58:04.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentsImportPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\StudentsImportPageViewModel.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\ViewModels\\StudentsImportPageViewModel.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\StudentsImportPageViewModel.cs",
+              "RelativeToolTip": "ExamSchedular\\ViewModels\\StudentsImportPageViewModel.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv1wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:57:59.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProgramCreatePageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\ProgramCreatePageViewModel.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\ViewModels\\ProgramCreatePageViewModel.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\ProgramCreatePageViewModel.cs",
+              "RelativeToolTip": "ExamSchedular\\ViewModels\\ProgramCreatePageViewModel.cs",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAAADsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:57:54.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ExamSchedular\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:57:49.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditClassroomDialogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\EditClassroomDialogViewModel.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\ViewModels\\EditClassroomDialogViewModel.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\EditClassroomDialogViewModel.cs",
+              "RelativeToolTip": "ExamSchedular\\ViewModels\\EditClassroomDialogViewModel.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAADwv5QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:57:44.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CourseStudentsPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\CourseStudentsPageViewModel.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\ViewModels\\CourseStudentsPageViewModel.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\CourseStudentsPageViewModel.cs",
+              "RelativeToolTip": "ExamSchedular\\ViewModels\\CourseStudentsPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:57:29.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CoursesListPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\CoursesListPageViewModel.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\ViewModels\\CoursesListPageViewModel.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\CoursesListPageViewModel.cs",
+              "RelativeToolTip": "ExamSchedular\\ViewModels\\CoursesListPageViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:57:24.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CoursesImportPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\CoursesImportPageViewModel.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\ViewModels\\CoursesImportPageViewModel.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\CoursesImportPageViewModel.cs",
+              "RelativeToolTip": "ExamSchedular\\ViewModels\\CoursesImportPageViewModel.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAwwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:57:19.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ClassroomsPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\ClassroomsPageViewModel.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\ViewModels\\ClassroomsPageViewModel.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\ViewModels\\ClassroomsPageViewModel.cs",
+              "RelativeToolTip": "ExamSchedular\\ViewModels\\ClassroomsPageViewModel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:57:14.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DependencyRegistrationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\UI\\DependencyRegistrationExtensions.cs",
+              "RelativeDocumentMoniker": "ExamSchedular\\UI\\DependencyRegistrationExtensions.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular\\UI\\DependencyRegistrationExtensions.cs",
+              "RelativeToolTip": "ExamSchedular\\UI\\DependencyRegistrationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:57:06.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\UserRole.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:56:32.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Timeslot.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Timeslot.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\Timeslot.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Timeslot.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\Timeslot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:56:27.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Student.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:56:22.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SeatAssigment.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\SeatAssigment.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\SeatAssigment.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\SeatAssigment.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\SeatAssigment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:56:17.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Instructor.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\Instructor.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Instructor.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:56:11.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IHasDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\IHasDepartment.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\IHasDepartment.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\IHasDepartment.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\IHasDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:56:06.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ExamAssigment.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\ExamAssigment.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\ExamAssigment.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\ExamAssigment.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\ExamAssigment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:56:02.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Exam.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\Exam.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Exam.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:55:57.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Enrollment.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Enrollment.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:55:53.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Department.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:55:49.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\DbInitializer.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:55:44.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Course.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:55:39.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Classroom.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\Classroom.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\Classroom.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\Classroom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:55:35.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\AppUser.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:55:24.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Data\\Entities\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Data\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "ExamSchedular.Data\\Entities\\AppDbContext.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:55:19.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Core\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Core\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Core\\ViewModelBase.cs",
+              "RelativeToolTip": "ExamSchedular.Core\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:55:10.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Core\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ExamSchedular.Core\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ExamSchedular\\ExamSchedular.Core\\RelayCommand.cs",
+              "RelativeToolTip": "ExamSchedular.Core\\RelayCommand.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:55:04.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
